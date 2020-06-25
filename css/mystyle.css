@@ -1,0 +1,121 @@
+body
+{
+  background: #CCC;
+
+}
+
+#Header a:hover
+{
+    color: #FFF;
+}
+
+#bg-img
+{
+    background: url('../img/back.jpg');
+    background-size: 100%;
+    background-repeat: no repeat;
+    min-height: 500px;
+}
+
+#About 
+{
+  margin-top: -200px;
+}
+
+#About .fa
+{
+  color:#FFF;
+}
+
+#About span
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
+
+#About hr
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
+
+#About p
+{
+  margin-left: -70px;
+}
+
+#Skills span
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
+
+#Skills hr
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
+
+#Skills .card
+{
+  margin-left: -70px;
+}
+
+#Experience span
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
+
+#Experience hr
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
+
+#Experience p
+{
+  margin-left: -70px;
+}
+
+#SignIn span
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
+
+#SignIn hr 
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
+
+#SignIn .card
+{
+  margin-left: -70px;
+
+}
+
+
+
+#Contact span 
+{
+  padding: 10px 20px 10px 20px;
+  margin-left: -70px;
+}
+
+#Contact hr 
+{
+  border-width: 3px;
+  margin-top: 06px;
+  margin-left: -70px;
+}
+
+#Contact .card
+{
+  margin-left: -70px;
+}
